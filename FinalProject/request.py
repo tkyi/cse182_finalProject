@@ -8,7 +8,15 @@ for line in ids:
     idconverter[currPair[0]] = currPair[1]
 ids.close()
 
-mimNumber = '100100'
-url = "http://api.omim.org/api/entry?apiKey=2D38BBD07E6389672AE6469A244285FA6C7209F2&include=all&mimNumber=" + mimNumber
-r = requests.get(url)
-print(r.content)
+print idconverter
+
+mim = list(idconverter.values())  
+
+print mim
+
+for x in range(len(mim)):
+	mimNumber = mim[x]
+	url = "http://api.omim.org/api/entry?apiKey=2D38BBD07E6389672AE6469A244285FA6C7209F2&include=all&mimNumber=" + mimNumber
+	r = requests.get(url)
+	print(r.content)
+	
