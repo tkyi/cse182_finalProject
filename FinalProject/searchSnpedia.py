@@ -1,3 +1,5 @@
+#opens up vcf file and uses rsIds to make calls to SNPedia
+
 
 import argparse
 from wikitools import wiki  # https://github.com/alexz-enwp/wikitools
@@ -18,7 +20,7 @@ def search_snpedia(snp):
     except page.NoPage:
         return errMsg
 
-
+#retrieving rsIds
 num = []
 snpnum = []
 vcf = open("individualX.txt", "r") #opens file for reading
@@ -30,14 +32,18 @@ for line in vcf:
 
 snpediaFile = open("snpediaResults.txt", "w")
 
+count = 1
+
+#loop through rsIds and make calls to SNPedia
 for id in num:
     if id != "ID":
         print id
         result = search_snpedia(id)
         if result != errMsg:
-            snpediaFile.write(str(id) + "\n") #write to file if match in snpedia
+            snpediaFile.write("Match #" + str(count) + ": " + str(id) + "\n") #write to file if match in snpedia
             snpediaFile.write(result)
             snpediaFile.write("\n\n")
+            count += 1
         print result
 
 snpediaFile.close()

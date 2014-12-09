@@ -1,0 +1,1863 @@
+rs3094315
+{{Rsnum
+|rsid=3094315
+|Gene=FAM87B
+|Chromosome=1
+|position=817186
+|Orientation=minus
+|GMAF=0.2521
+|Assembly=GRCh38
+|GenomeBuild=38.1
+|dbSNPBuild=141
+|geno1=(C;C)
+|geno2=(C;T)
+|geno3=(T;T)
+|Gene_s=FAM87B
+}}{{ population diversity
+| geno1=(C;C)
+| geno2=(C;T)
+| geno3=(T;T)
+| CEU | 1.8 | 29.5 | 68.8
+| HCB | 0.0 | 19.7 | 80.3
+| JPT | 0.0 | 27.7 | 72.3
+| YRI | 49.7 | 40.1 | 10.2
+| ASW | 33.3 | 47.4 | 19.3
+| CHB | 0.0 | 19.7 | 80.3
+| CHD | 0.9 | 16.5 | 82.6
+| GIH | 3.1 | 28.1 | 68.8
+| LWK | 28.2 | 51.8 | 20.0
+| MEX | 3.4 | 31.0 | 65.5
+| MKK | 0.0 | 0.0 | 0.0
+| TSI | 2.0 | 26.5 | 71.6
+| HapMapRevision=28
+}}Referenced in genome wide association studies. [http://www.la-press.com/redirect_file.php?fileId=1580&filename=CIN-6-Gold-et-al&fileType=pdf]
+
+{{on chip | 23andMe v1}}
+{{on chip | 23andMe v2}}
+{{on chip | 23andMe v3}}
+{{on chip | 23andMe v4}}
+{{on chip | Affy GenomeWide 6}}
+{{on chip | FTDNA2}}
+{{on chip | FTDNA}}
+{{on chip | HumanOmni1Quad}}
+{{on chip | Illumina Human 1M}}
+
+rs1921
+{{Rsnum
+|rsid=1921
+|Gene=ISG15
+|Chromosome=1
+|position=1014228
+|Orientation=plus
+|GMAF=0.3407
+|Gene_s=ISG15
+|Assembly=GRCh38
+|GenomeBuild=38.1
+|dbSNPBuild=141
+|geno1=(A;A)
+|geno2=(A;G)
+|geno3=(G;G)
+}}{{ population diversity
+| geno1=(A;A)
+| geno2=(A;G)
+| geno3=(G;G)
+| CEU | 0.0 | 0.0 | 0.0
+| HCB | 3.0 | 33.6 | 63.4
+| JPT | 2.7 | 34.2 | 63.1
+| YRI | 19.2 | 46.6 | 34.2
+| ASW | 0.0 | 0.0 | 0.0
+| CHB | 3.0 | 33.6 | 63.4
+| CHD | 2.8 | 27.1 | 70.1
+| GIH | 18.0 | 34.0 | 48.0
+| LWK | 24.5 | 42.7 | 32.7
+| MEX | 8.9 | 39.3 | 51.8
+| MKK | 3.9 | 44.2 | 51.9
+| TSI | 14.7 | 49.0 | 36.3
+| HapMapRevision=28
+}}
+
+{{on chip | Affy GenomeWide 6}}
+{{on chip | HumanOmni1Quad}}
+
+rs3934834
+{{Rsnum
+|rsid=3934834
+|Gene=RNF223
+|Chromosome=1
+|position=1070426
+|Orientation=plus
+|GMAF=0.1983
+|Assembly=GRCh38
+|GenomeBuild=38.1
+|dbSNPBuild=141
+|geno1=(C;C)
+|geno2=(C;T)
+|geno3=(T;T)
+}}{{ population diversity
+| geno1=(C;C)
+| geno2=(C;T)
+| geno3=(T;T)
+| CEU | 77.0 | 21.2 | 1.8
+| HCB | 78.8 | 18.2 | 2.9
+| JPT | 73.2 | 26.8 | 0.0
+| YRI | 28.7 | 54.5 | 16.8
+| ASW | 47.4 | 47.4 | 5.3
+| CHB | 78.8 | 18.2 | 2.9
+| CHD | 82.6 | 15.6 | 1.8
+| GIH | 66.3 | 29.7 | 4.0
+| LWK | 39.1 | 46.4 | 14.5
+| MEX | 84.5 | 15.5 | 0.0
+| MKK | 49.4 | 40.4 | 10.3
+| TSI | 66.7 | 28.4 | 4.9
+| HapMapRevision=28
+}}{{PMID Auto GWAS
+|PMID=19851299
+|Trait=Body mass index
+|Title=Linkage and Genome-wide Association Analysis of Obesity-related Phenotypes: Association of Weight With the MGAT1 Gene
+|RiskAllele=G
+|Pval=6E-7
+|OR=0.11
+|ORtxt=[NR] kg increase
+}}
+
+{{PMID Auto
+|PMID=19176549
+|Title=Genome-wide association analysis by lasso penalized logistic regression.
+|OA=1
+}}
+
+{{GET Evidence
+|impact=pathogenic
+|qualified_impact=Insufficiently evaluated pathogenic
+|inheritance=unknown
+|quality_scores=Array
+|dbsnp_id=rs3934834
+|overall_frequency_n=29
+|overall_frequency_d=128
+|overall_frequency=0.226562
+|n_genomes=24
+|n_genomes_annotated=0
+|n_haplomes=26
+|n_articles=0
+|n_articles_annotated=0
+|in_gwas=Y
+|autoscore=1
+|webscore=N
+}}
+
+{{on chip | 23andMe v1}}
+{{on chip | 23andMe v2}}
+{{on chip | 23andMe v3}}
+{{on chip | 23andMe v4}}
+{{on chip | HumanOmni1Quad}}
+{{on chip | Illumina Human 1M}}
+
+rs11260603
+{{Rsnum
+|rsid=11260603
+|Gene=KRT18P7
+|Chromosome=1
+|position=1143818
+|Orientation=plus
+|GMAF=0.2635
+|Gene_s=KRT18P7
+|Assembly=GRCh38
+|GenomeBuild=38.1
+|dbSNPBuild=141
+|geno1=(C;C)
+|geno2=(C;T)
+|geno3=(T;T)
+}}{{ population diversity
+| geno1=(C;C)
+| geno2=(C;T)
+| geno3=(T;T)
+| CEU | 4.8 | 33.3 | 61.9
+| HCB | 0.0 | 6.7 | 93.3
+| JPT | 0.0 | 6.8 | 93.2
+| YRI | 34.4 | 52.5 | 13.1
+| ASW | 0.0 | 0.0 | 0.0
+| CHB | 0.0 | 6.7 | 93.3
+| CHD | 0.0 | 0.0 | 0.0
+| GIH | 0.0 | 0.0 | 0.0
+| LWK | 0.0 | 0.0 | 0.0
+| MEX | 0.0 | 0.0 | 0.0
+| MKK | 0.0 | 0.0 | 0.0
+| TSI | 0.0 | 0.0 | 0.0
+| HapMapRevision=28
+}}{{PMID Auto GWAS
+  |PMID=23382691
+  |Trait=IgG glycosylation
+  |Title=Loci associated with N-glycosylation of human immunoglobulin G show pleiotropy with autoimmune diseases and haematological cancers.
+  |RiskAllele=C
+  |Pval=4E-7
+  |OR=.26
+  |ORtxt=[0.16-0.36] unit increase
+  |OA=1
+}}
+
+{{on chip | HumanOmni1Quad}}
+
+rs17568
+{{Rsnum
+|rsid=17568
+|Gene=TNFRSF4
+|Chromosome=1
+|position=1212042
+|Orientation=minus
+|GMAF=0.4559
+|Gene_s=TNFRSF4
+|Assembly=GRCh38
+|GenomeBuild=38.1
+|dbSNPBuild=141
+|geno1=(A;A)
+|geno2=(A;G)
+|geno3=(G;G)
+}}{{PMID Auto
+|PMID=24595151
+|Title=Absence of association between atherosclerotic cerebral infarction and TNFSF4/TNFRSF4 single nucleotide polymorphisms rs1234313, rs1234314 and rs17568 in a Chinese population
+}}{{PMID Auto
+|PMID=18798503
+|Title=[Correlation of OX40 gene rs17568A/G polymorphism with acute coronary syndrome in Chinese Han population].
+}}
+
+{{PMID Auto
+|PMID=18987746
+|Title=Association of interacting genes in the toll-like receptor signaling pathway and the antibody response to pertussis vaccination.
+|OA=1
+}}
+
+{{PMID Auto
+|PMID=21476935
+|Title=Association of OX40 and OX40L gene polymorphisms with acute coronary syndrome in a Han Chinese population.
+}}
+
+{{PMID Auto
+|PMID=23216302
+|Title=Genetic variation in the OX40L/OX40 system and plasma lipid and lipoprotein levels in a Chinese hypertriglyceridemic population.
+|OA=1
+}}
+
+rs12103
+{{Rsnum
+|rsid=12103
+|Gene=CPSF3L
+|Chromosome=1
+|position=1312114
+|Orientation=plus
+|GMAF=0.3921
+|Gene_s=CPSF3L,MIR6727,PUSL1
+|Assembly=GRCh38
+|GenomeBuild=38.1
+|dbSNPBuild=141
+|geno1=(C;C)
+|geno2=(C;T)
+|geno3=(T;T)
+}}{{PMID Auto GWAS
+  |PMID=23128233
+  |Trait=Inflammatory bowel disease
+  |Title=Host-microbe interactions have shaped the genetic architecture of inflammatory bowel disease.
+  |RiskAllele=A
+  |Pval=8E-13
+  |OR=1.10
+  |ORtxt=[1.059-1.139]
+  |OA=1
+}}
+
+{{on chip | Illumina Human 1M}}
+
+rs307355
+{{Rsnum
+|rsid=307355
+|Gene=TAS1R3
+|Chromosome=1
+|position=1329774
+|Orientation=plus
+|GMAF=0.2181
+|Assembly=GRCh38
+|GenomeBuild=38.1
+|dbSNPBuild=141
+|Summary=Sucrose Taste Sensitivity
+|geno1=(C;C)
+|geno2=(C;T)
+|geno3=(T;T)
+|Gene_s=TAS1R3
+}}{{PMID Auto
+|PMID=19559618
+|Title=Allelic Polymorphism within the TAS1R3 Promoter Is Associated with Human Taste Sensitivity to Sucrose
+|OA=1
+}}
+
+{{omim
+|desc=TASTE RECEPTOR TYPE 1, MEMBER 3; TAS1R3
+|id=605865
+|rsnum=307355
+}}
+
+rs35744813
+{{Rsnum
+|rsid=35744813
+|Gene=TAS1R3
+|Chromosome=1
+|position=1330080
+|Orientation=minus
+|GMAF=0.253
+|Assembly=GRCh38
+|GenomeBuild=38.1
+|dbSNPBuild=141
+|Summary=Sucrose taste sensitivity
+|geno1=(A;A)
+|geno2=(A;G)
+|geno3=(G;G)
+|Gene_s=TAS1R3
+}}{{PMID Auto
+|PMID=19559618
+|Title=Allelic Polymorphism within the TAS1R3 Promoter Is Associated with Human Taste Sensitivity to Sucrose
+|OA=1
+}}
+
+{{omim
+|desc=TASTE RECEPTOR TYPE 1, MEMBER 3; TAS1R3
+|id=605865
+|rsnum=35744813
+}}
+
+{{on chip | 23andMe v3}}
+{{on chip | 23andMe v4}}
+
+rs307377
+{{Rsnum
+|rsid=307377
+|Gene=TAS1R3
+|Chromosome=1
+|position=1334174
+|Orientation=plus
+|GMAF=0.0404
+|Assembly=GRCh38
+|GenomeBuild=38.1
+|dbSNPBuild=141
+|Summary=umami taste sensitivity
+|geno1=(C;C)
+|geno2=(C;T)
+|geno3=(T;T)
+|Gene_s=TAS1R3
+}}Influences [[taste|tasting]] ability. 
+
+This [http://blogs.discovermagazine.com/gnxp/2009/07/genetics-of-taste-umami-polymorphisms-on-tas1r/ blog] entry discusses the research.
+
+{{PMID|19587085|OA=1
+}} the rare T allele of [[rs307377]](T) (R757C) in [[TAS1R3]] led to a doubling of umami ratings of 25 mmol MPG/L. Other suggestive SNPs of TAS1R3 include the A allele of A5T and the A allele of R247H, which both resulted in an approximate doubling of umami ratings of 200 mmol MPG/L
+
+{{PMID Auto
+|PMID=16782140
+|Title=Diverse tastes: Genetics of sweet and bitter perception.
+|OA=1
+}}
+
+{{PMID Auto
+|PMID=19092995
+|Title=Bitter taste receptors influence glucose homeostasis.
+|OA=1
+}}
+
+{{PMID Auto
+|PMID=19696921
+|Title=Genetic and molecular basis of individual differences in human umami taste perception.
+|OA=1
+}}
+
+{{GET Evidence
+|gene=TAS1R3
+|aa_change=Cys757Arg
+|aa_change_short=C757R
+|impact=not reviewed
+|qualified_impact=Insufficiently evaluated not reviewed
+|inheritance=unknown
+|quality_scores=Array
+|dbsnp_id=rs307377
+|overall_frequency_n=124
+|overall_frequency_d=126
+|overall_frequency=0.984127
+|n_genomes=53
+|n_genomes_annotated=0
+|n_haplomes=105
+|n_articles=0
+|n_articles_annotated=0
+|nblosum100=8
+|autoscore=0
+|webscore=N
+}}
+
+{{on chip | 23andMe v3}}
+{{on chip | 23andMe v4}}
+
+rs13303344
+{{Rsnum
+|rsid=13303344
+|Chromosome=1
+|position=2016961
+|Orientation=minus
+|GMAF=0.427
+|Assembly=GRCh38
+|GenomeBuild=38.1
+|dbSNPBuild=141
+|geno1=(G;G)
+|geno2=(G;T)
+|geno3=(T;T)
+}}{{ population diversity
+| geno1=(G;G)
+| geno2=(G;T)
+| geno3=(T;T)
+| CEU | 7.1 | 44.2 | 48.7
+| HCB | 43.1 | 42.3 | 14.6
+| JPT | 33.6 | 51.3 | 15.0
+| YRI | 15.0 | 46.9 | 38.1
+| ASW | 8.8 | 35.1 | 56.1
+| CHB | 43.1 | 42.3 | 14.6
+| CHD | 54.1 | 38.5 | 7.3
+| GIH | 32.7 | 48.5 | 18.8
+| LWK | 10.9 | 47.3 | 41.8
+| MEX | 29.3 | 51.7 | 19.0
+| MKK | 17.9 | 47.4 | 34.6
+| TSI | 8.8 | 41.2 | 50.0
+| HapMapRevision=28
+}}{{PMID Auto
+|PMID=23394390
+|Title=Influence of genetic polymorphisms in the glutamatergic and GABAergic systems and their interactions with environmental stressors on antidepressant response
+}}
+
+{{on chip | Affy GenomeWide 6}}
+{{on chip | HumanOmni1Quad}}
+
+rs2376805
+{{Rsnum
+|rsid=2376805
+|Gene=GABRD
+|Chromosome=1
+|position=2024923
+|Orientation=minus
+|GMAF=0.2011
+|Assembly=GRCh38
+|GenomeBuild=38.1
+|dbSNPBuild=141
+|geno1=(C;C)
+|geno2=(C;T)
+|geno3=(T;T)
+|Gene_s=GABRD
+}}{{PMID Auto
+|PMID=20561060
+|Title=Association of the GABRD gene and childhood-onset mood disorders
+|OA=1
+}}
+
+rs2376803
+{{Rsnum
+|rsid=2376803
+|Gene=GABRD
+|Chromosome=1
+|position=2036515
+|Orientation=minus
+|GMAF=0.2759
+|Assembly=GRCh38
+|GenomeBuild=38.1
+|dbSNPBuild=141
+|geno1=(A;A)
+|geno2=(A;G)
+|geno3=(G;G)
+}}{{ population diversity
+| geno1=(A;A)
+| geno2=(A;G)
+| geno3=(G;G)
+| CEU | 60.0 | 32.3 | 7.7
+| HCB | 57.8 | 37.8 | 4.4
+| JPT | 34.1 | 52.3 | 13.6
+| YRI | 52.4 | 41.3 | 6.3
+| ASW | 0.0 | 0.0 | 0.0
+| CHB | 57.8 | 37.8 | 4.4
+| CHD | 0.0 | 0.0 | 0.0
+| GIH | 0.0 | 0.0 | 0.0
+| LWK | 0.0 | 0.0 | 0.0
+| MEX | 0.0 | 0.0 | 0.0
+| MKK | 0.0 | 0.0 | 0.0
+| TSI | 0.0 | 0.0 | 0.0
+| HapMapRevision=28
+}}{{PMID Auto
+|PMID=20561060
+|Title=Association of the [[GABRD]] gene and childhood-onset mood disorders
+|OA=1
+}}
+
+{{on chip | 23andMe v3}}
+{{on chip | 23andMe v4}}
+{{on chip | FTDNA2}}
+{{on chip | HumanOmni1Quad}}
+
+rs3128296
+{{Rsnum
+|rsid=3128296
+|Gene=PRKCZ
+|Chromosome=1
+|position=2137467
+|Orientation=plus
+|GMAF=0.07392
+|Gene_s=PRKCZ
+|Assembly=GRCh38
+|GenomeBuild=38.1
+|dbSNPBuild=141
+|geno1=(G;G)
+|geno2=(G;T)
+|geno3=(T;T)
+}}{{ population diversity
+| geno1=(G;G)
+| geno2=(G;T)
+| geno3=(T;T)
+| CEU | 1.8 | 22.1 | 76.1
+| HCB | 0.0 | 16.1 | 83.9
+| JPT | 0.0 | 6.2 | 93.8
+| YRI | 0.0 | 3.4 | 96.6
+| ASW | 0.0 | 14.0 | 86.0
+| CHB | 0.0 | 16.1 | 83.9
+| CHD | 0.0 | 12.8 | 87.2
+| GIH | 1.0 | 16.8 | 82.2
+| LWK | 0.0 | 11.8 | 88.2
+| MEX | 0.0 | 5.2 | 94.8
+| MKK | 0.6 | 10.3 | 89.1
+| TSI | 2.0 | 14.7 | 83.3
+| HapMapRevision=28
+}}{{PMID Auto
+|PMID=22231931
+|Title=Tests of linkage and allelic association between markers in the 1p36 PRKCZ (Protein Kinase C Zeta) gene region and bipolar affective disorder
+}}
+
+{{on chip | 23andMe v1}}
+{{on chip | 23andMe v2}}
+{{on chip | 23andMe v3}}
+{{on chip | 23andMe v4}}
+{{on chip | FTDNA2}}
+{{on chip | HumanOmni1Quad}}
+{{on chip | Illumina Human 1M}}
+
+rs3753242
+{{Rsnum
+|rsid=3753242
+|Gene=PRKCZ
+|Chromosome=1
+|position=2138242
+|Orientation=plus
+|GMAF=0.2043
+|Assembly=GRCh38
+|GenomeBuild=38.1
+|dbSNPBuild=141
+|geno1=(C;C)
+|geno2=(C;T)
+|geno3=(T;T)
+|Gene_s=PRKCZ
+}}{{ population diversity
+| geno1=(C;C)
+| geno2=(C;T)
+| geno3=(T;T)
+| CEU | 92.0 | 7.1 | 0.9
+| HCB | 23.4 | 46.7 | 29.9
+| JPT | 5.3 | 52.2 | 42.5
+| YRI | 96.5 | 3.5 | 0.0
+| ASW | 91.1 | 8.9 | 0.0
+| CHB | 23.4 | 46.7 | 29.9
+| CHD | 20.2 | 44.0 | 35.8
+| GIH | 61.4 | 34.7 | 4.0
+| LWK | 97.3 | 2.7 | 0.0
+| MEX | 72.4 | 25.9 | 1.7
+| MKK | 0.0 | 0.0 | 0.0
+| TSI | 82.4 | 16.7 | 1.0
+| HapMapRevision=28
+}}{{PMID Auto GWAS
+|PMID=21107309
+|Trait=None
+|Title=Genome-Wide Pharmacogenomic Study of Neurocognition As an Indicator of Antipsychotic Treatment Response in Schizophrenia
+|RiskAllele=
+|Pval=0.000001
+|OR=None
+|ORtxt=None
+|OA=1
+}}
+
+{{PMID|18615853}} Genetic variants in protein kinase C zeta gene and type 2 diabetes risk: a case-control study of a Chinese Han population.
+
+{{on chip | 23andMe v1}}
+{{on chip | 23andMe v2}}
+{{on chip | 23andMe v3}}
+{{on chip | 23andMe v4}}
+{{on chip | Affy GenomeWide 6}}
+{{on chip | HumanOmni1Quad}}
+{{on chip | Illumina Human 1M}}
+
+rs2503706
+{{Rsnum
+|rsid=2503706
+|Gene=PRKCZ
+|Chromosome=1
+|position=2143812
+|Orientation=minus
+|GMAF=0.1657
+|Gene_s=PRKCZ
+|Assembly=GRCh38
+|GenomeBuild=38.1
+|dbSNPBuild=141
+|geno1=(C;C)
+|geno2=(C;T)
+|geno3=(T;T)
+}}{{ population diversity
+| geno1=(C;C)
+| geno2=(C;T)
+| geno3=(T;T)
+| CEU | 40.7 | 42.6 | 16.7
+| HCB | 89.3 | 9.2 | 1.5
+| JPT | 92.7 | 7.3 | 0.0
+| YRI | 95.8 | 4.2 | 0.0
+| ASW | 85.7 | 14.3 | 0.0
+| CHB | 89.3 | 9.2 | 1.5
+| CHD | 89.7 | 9.3 | 0.9
+| GIH | 75.2 | 22.8 | 2.0
+| LWK | 90.6 | 9.4 | 0.0
+| MEX | 0.0 | 0.0 | 0.0
+| MKK | 79.2 | 20.8 | 0.0
+| TSI | 53.0 | 34.0 | 13.0
+| HapMapRevision=28
+}}{{PMID Auto
+|PMID=22231931
+|Title=Tests of linkage and allelic association between markers in the 1p36 PRKCZ (Protein Kinase C Zeta) gene region and bipolar affective disorder
+}}
+
+{{PMID Auto
+|PMID=18615853
+|Title=Genetic variants in protein kinase C zeta gene and type 2 diabetes risk: a case-control study of a Chinese Han population.
+}}
+
+{{on chip | Illumina Human 1M}}
+
+rs12045693
+{{Rsnum
+|rsid=12045693
+|Gene=SKI
+|Chromosome=1
+|position=2274142
+|Orientation=plus
+|GMAF=0.472
+|Gene_s=SKI
+|Assembly=GRCh38
+|GenomeBuild=38.1
+|dbSNPBuild=141
+|geno1=(A;A)
+|geno2=(A;C)
+|geno3=(C;C)
+}}{{ population diversity
+| geno1=(A;A)
+| geno2=(A;C)
+| geno3=(C;C)
+| CEU | 17.7 | 43.4 | 38.9
+| HCB | 28.5 | 54.7 | 16.8
+| JPT | 22.1 | 57.5 | 20.4
+| YRI | 21.8 | 53.7 | 24.5
+| ASW | 21.1 | 54.4 | 24.6
+| CHB | 28.5 | 54.7 | 16.8
+| CHD | 30.3 | 51.4 | 18.3
+| GIH | 12.0 | 47.0 | 41.0
+| LWK | 26.4 | 52.7 | 20.9
+| MEX | 27.6 | 55.2 | 17.2
+| MKK | 16.7 | 53.2 | 30.1
+| TSI | 14.7 | 47.1 | 38.2
+| HapMapRevision=28
+}}{{PMID Auto GWAS
+  |PMID=23382691
+  |Trait=IgG glycosylation
+  |Title=Loci associated with N-glycosylation of human immunoglobulin G show pleiotropy with autoimmune diseases and haematological cancers.
+  |RiskAllele=C
+  |Pval=3E-6
+  |OR=.15
+  |ORtxt=[0.089-0.219] unit decrease
+  |OA=1
+}}
+
+{{on chip | Affy GenomeWide 6}}
+{{on chip | HumanOmni1Quad}}
+
+rs2843159
+{{Rsnum
+|rsid=2843159
+|Gene=SKI
+|Chromosome=1
+|position=2304233
+|Orientation=minus
+|GMAF=0.3021
+|Gene_s=SKI
+|Assembly=GRCh38
+|GenomeBuild=38.1
+|dbSNPBuild=141
+|geno1=(A;A)
+|geno2=(A;G)
+|geno3=(G;G)
+}}{{ population diversity
+| geno1=(A;A)
+| geno2=(A;G)
+| geno3=(G;G)
+| CEU | 2.7 | 22.1 | 75.2
+| HCB | 8.8 | 36.5 | 54.7
+| JPT | 6.2 | 36.3 | 57.5
+| YRI | 32.0 | 48.3 | 19.7
+| ASW | 31.6 | 56.1 | 12.3
+| CHB | 8.8 | 36.5 | 54.7
+| CHD | 7.3 | 46.8 | 45.9
+| GIH | 4.0 | 46.5 | 49.5
+| LWK | 33.9 | 45.9 | 20.2
+| MEX | 17.5 | 45.6 | 36.8
+| MKK | 18.6 | 53.2 | 28.2
+| TSI | 2.9 | 20.6 | 76.5
+| HapMapRevision=28
+}}{{PMID Auto
+|PMID=22984993
+|Title=Evaluating SKI as a candidate gene for non-syndromic cleft lip with or without cleft palate
+}}
+
+{{on chip | 23andMe v3}}
+{{on chip | 23andMe v4}}
+{{on chip | FTDNA2}}
+{{on chip | HumanOmni1Quad}}
+{{on chip | Illumina Human 1M}}
+
+rs903901
+{{Rsnum
+|rsid=903901
+|Gene=MORN1
+|Chromosome=1
+|position=2378754
+|Orientation=plus
+|GMAF=0.06887
+|Assembly=GRCh38
+|GenomeBuild=38.1
+|dbSNPBuild=141
+|geno1=(A;A)
+|geno2=(A;G)
+|geno3=(G;G)
+|Gene_s=MORN1
+}}{{ population diversity
+| geno1=(A;A)
+| geno2=(A;G)
+| geno3=(G;G)
+| CEU | 0.0 | 18.9 | 81.1
+| HCB | 0.0 | 12.4 | 87.6
+| JPT | 0.0 | 17.7 | 82.3
+| YRI | 0.0 | 16.3 | 83.7
+| ASW | 0.0 | 14.0 | 86.0
+| CHB | 0.0 | 12.4 | 87.6
+| CHD | 0.9 | 7.3 | 91.7
+| GIH | 7.1 | 50.5 | 42.4
+| LWK | 0.0 | 9.1 | 90.9
+| MEX | 0.0 | 25.9 | 74.1
+| MKK | 1.3 | 9.0 | 89.7
+| TSI | 1.0 | 8.0 | 91.0
+| HapMapRevision=28
+}}
+
+{{on chip | 23andMe v1}}
+{{on chip | 23andMe v2}}
+{{on chip | 23andMe v3}}
+{{on chip | 23andMe v4}}
+{{on chip | FTDNA2}}
+{{on chip | HumanOmni1Quad}}
+{{on chip | Illumina Human 1M}}
+
+rs1129332
+{{Rsnum
+|rsid=1129332
+|Gene=RER1
+|Chromosome=1
+|position=2404771
+|Orientation=minus
+|GMAF=0.2764
+|Gene_s=PEX10,RER1
+|Assembly=GRCh38
+|GenomeBuild=38.1
+|dbSNPBuild=141
+|geno1=(A;A)
+|geno2=(A;G)
+|geno3=(G;G)
+}}{{ population diversity
+| geno1=(A;A)
+| geno2=(A;G)
+| geno3=(G;G)
+| CEU | 3.6 | 42.0 | 54.5
+| HCB | 19.7 | 49.6 | 30.7
+| JPT | 30.1 | 53.1 | 16.8
+| YRI | 2.0 | 17.7 | 80.3
+| ASW | 5.3 | 26.3 | 68.4
+| CHB | 19.7 | 49.6 | 30.7
+| CHD | 15.6 | 49.5 | 34.9
+| GIH | 8.0 | 29.0 | 63.0
+| LWK | 0.9 | 5.5 | 93.6
+| MEX | 1.7 | 41.4 | 56.9
+| MKK | 0.6 | 14.7 | 84.6
+| TSI | 9.8 | 52.0 | 38.2
+| HapMapRevision=28
+}}{{PMID Auto
+|PMID=24303009
+|Title=Evaluation of Five Candidate Genes from GWAS for Association with Oligozoospermia in a Han Chinese Population
+|OA=1
+}}
+
+{{on chip | 23andMe v3}}
+{{on chip | 23andMe v4}}
+{{on chip | FTDNA2}}
+{{on chip | HumanOmni1Quad}}
+{{on chip | Illumina Human 1M}}
+
+rs2477686
+{{Rsnum
+|rsid=2477686
+|Chromosome=1
+|position=2461209
+|Orientation=plus
+|GMAF=0.2837
+|Assembly=GRCh38
+|GenomeBuild=38.1
+|dbSNPBuild=141
+|geno1=(C;C)
+|geno2=(C;G)
+|geno3=(G;G)
+|Gene=PLCH2
+|Gene_s=PLCH2
+}}{{ population diversity
+| geno1=(C;C)
+| geno2=(C;G)
+| geno3=(G;G)
+| CEU | 27.0 | 42.3 | 30.6
+| HCB | 83.1 | 15.4 | 1.5
+| JPT | 83.0 | 16.1 | 0.9
+| YRI | 81.0 | 19.0 | 0.0
+| ASW | 77.4 | 17.0 | 5.7
+| CHB | 83.1 | 15.4 | 1.5
+| CHD | 77.4 | 20.8 | 1.9
+| GIH | 37.6 | 53.5 | 8.9
+| LWK | 77.8 | 22.2 | 0.0
+| MEX | 48.2 | 46.4 | 5.4
+| MKK | 56.0 | 40.0 | 4.0
+| TSI | 22.0 | 46.0 | 32.0
+| HapMapRevision=28
+}}{{PMID|22197933}} each copy of a T at [[rs10910078]] (equivalent to [[rs2477686]] in the study) was associated with about 1.4 times higher odds of non-obstructive azoospermia .
+
+{{on chip | Affy GenomeWide 6}}
+
+rs10797432
+{{Rsnum
+|rsid=10797432
+|Gene=LOC100996583
+|Chromosome=1
+|position=2569899
+|Orientation=plus
+|GMAF=0.4766
+|Gene_s=LOC100996583
+|Assembly=GRCh38
+|GenomeBuild=38.1
+|dbSNPBuild=141
+|geno1=(C;C)
+|geno2=(C;T)
+|geno3=(T;T)
+}}{{ population diversity
+| geno1=(C;C)
+| geno2=(C;T)
+| geno3=(T;T)
+| CEU | 31.0 | 45.1 | 23.9
+| HCB | 19.7 | 54.7 | 25.5
+| JPT | 23.0 | 49.6 | 27.4
+| YRI | 12.9 | 46.3 | 40.8
+| ASW | 21.1 | 42.1 | 36.8
+| CHB | 19.7 | 54.7 | 25.5
+| CHD | 15.7 | 50.9 | 33.3
+| GIH | 19.0 | 37.0 | 44.0
+| LWK | 9.1 | 52.7 | 38.2
+| MEX | 19.3 | 42.1 | 38.6
+| MKK | 7.1 | 37.4 | 55.5
+| TSI | 28.7 | 51.5 | 19.8
+| HapMapRevision=28
+}}{{PMID Auto GWAS
+  |PMID=23128233
+  |Trait=Ulcerative colitis
+  |Title=Host-microbe interactions have shaped the genetic architecture of inflammatory bowel disease.
+  |RiskAllele=C
+  |Pval=3E-12
+  |OR=1.08
+  |ORtxt=[1.041-1.116]
+  |OA=1
+}}
+
+{{on chip | Affy GenomeWide 6}}
+
+rs734999
+{{Rsnum
+|rsid=734999
+|Gene=LOC100506589
+|Chromosome=1
+|position=2581777
+|Orientation=plus
+|GMAF=0.4233
+|Gene_s=LOC100996583
+|Assembly=GRCh38
+|GenomeBuild=38.1
+|dbSNPBuild=141
+|geno1=(C;C)
+|geno2=(C;T)
+|geno3=(T;T)
+}}{{ population diversity
+| geno1=(C;C)
+| geno2=(C;T)
+| geno3=(T;T)
+| CEU | 30.1 | 46.9 | 23.0
+| HCB | 19.7 | 54.7 | 25.5
+| JPT | 23.0 | 49.6 | 27.4
+| YRI | 0.0 | 22.4 | 77.6
+| ASW | 5.3 | 33.3 | 61.4
+| CHB | 19.7 | 54.7 | 25.5
+| CHD | 16.5 | 52.3 | 31.2
+| GIH | 18.8 | 36.6 | 44.6
+| LWK | 0.9 | 27.3 | 71.8
+| MEX | 19.0 | 39.7 | 41.4
+| MKK | 3.2 | 24.4 | 72.4
+| TSI | 28.4 | 52.0 | 19.6
+| HapMapRevision=28
+}}{{PMID Auto GWAS
+|PMID=21297633
+|Trait=None
+|Title=Meta-analysis identifies 29 additional ulcerative colitis risk loci, increasing the number of confirmed associations to 47
+|RiskAllele=C
+|Pval=3E-9
+|OR=1.0500
+|ORtxt=[1.01-1.09]
+|OA=1
+}}
+
+{{on chip | 23andMe v1}}
+{{on chip | 23andMe v2}}
+{{on chip | 23andMe v3}}
+{{on chip | 23andMe v4}}
+{{on chip | FTDNA2}}
+{{on chip | HumanOmni1Quad}}
+{{on chip | Illumina Human 1M}}
+
+rs3748816
+{{Rsnum
+|rsid=3748816
+|Gene=MMEL1
+|Chromosome=1
+|position=2595307
+|Orientation=minus
+|GMAF=0.477
+|Assembly=GRCh38
+|GenomeBuild=38.1
+|dbSNPBuild=141
+|geno1=(C;C)
+|geno2=(C;T)
+|geno3=(T;T)
+|Gene_s=MMEL1
+}}{{ population diversity
+| geno1=(C;C)
+| geno2=(C;T)
+| geno3=(T;T)
+| CEU | 13.3 | 40.7 | 46.0
+| HCB | 24.1 | 57.7 | 18.2
+| JPT | 23.9 | 51.3 | 24.8
+| YRI | 56.5 | 38.1 | 5.4
+| ASW | 49.1 | 36.8 | 14.0
+| CHB | 24.1 | 57.7 | 18.2
+| CHD | 27.5 | 54.1 | 18.3
+| GIH | 22.8 | 46.5 | 30.7
+| LWK | 50.0 | 37.3 | 12.7
+| MEX | 17.2 | 53.4 | 29.3
+| MKK | 44.9 | 42.3 | 12.8
+| TSI | 5.9 | 41.2 | 52.9
+| HapMapRevision=28
+}}
+{{PMID Auto GWAS
+|PMID=20190752
+|Trait=Celiac disease
+|Title=Multiple common variants for celiac disease influencing immune gene expression
+|RiskAllele=
+|Pval=3E-9
+|OR=1.12
+|ORtxt=[1.09-1.18]
+|OA=1
+}}
+
+{{PMID Auto
+|PMID=20574445
+|Title=A non-synonymous SNP within the membrane metalloendopeptidase-like 1 gene (MMEL1) is associated with multiple sclerosis.
+|OA=1
+}}
+
+The G allele is associated with 1.3 times higher odds of [[primary biliary cirrhosis]]. {{PMID|20639879|OA=1
+}}
+
+{{PMID|21383967|OA=1
+}} Meta-analysis of genome-wide association studies in celiac disease and rheumatoid arthritis identifies fourteen non-HLA shared loci.
+
+{{GET Evidence
+|gene=MMEL1
+|aa_change=Met509Thr
+|aa_change_short=M509T
+|impact=not reviewed
+|qualified_impact=Insufficiently evaluated not reviewed
+|inheritance=unknown
+|quality_scores=Array
+|dbsnp_id=rs3748816
+|overall_frequency_n=69
+|overall_frequency_d=128
+|overall_frequency=0.539062
+|n_genomes=41
+|n_genomes_annotated=0
+|n_haplomes=55
+|n_articles=0
+|n_articles_annotated=0
+|nblosum100=2
+|autoscore=0
+|webscore=N
+}}
+
+[[Primary Biliary Cirrhosis: Preliminary Research]]
+
+{{PMID Auto
+|PMID=22521342
+|Title=Extended analysis of a genome-wide association study in primary sclerosing cholangitis detects multiple novel risk loci.
+|OA=1
+}}
+
+{{PMID Auto
+|PMID=22922229
+|Title=Seven newly identified loci for autoimmune thyroid disease.
+|OA=1
+}}
+
+{{on chip | 23andMe v1}}
+{{on chip | 23andMe v2}}
+{{on chip | 23andMe v3}}
+{{on chip | 23andMe v4}}
+{{on chip | Illumina Human 1M}}
+
+rs6684865
+{{Rsnum
+|rsid=6684865
+|Gene=MMEL1
+|Chromosome=1
+|position=2614790
+|Orientation=plus
+|GMAF=0.4178
+|Assembly=GRCh38
+|GenomeBuild=38.1
+|dbSNPBuild=141
+|geno1=(A;A)
+|geno2=(A;G)
+|geno3=(G;G)
+|Gene_s=MMEL1
+}}{{ population diversity
+| geno1=(A;A)
+| geno2=(A;G)
+| geno3=(G;G)
+| CEU | 12.4 | 41.6 | 46.0
+| HCB | 22.6 | 58.4 | 19.0
+| JPT | 22.1 | 52.2 | 25.7
+| YRI | 32.0 | 50.3 | 17.7
+| ASW | 26.3 | 49.1 | 24.6
+| CHB | 22.6 | 58.4 | 19.0
+| CHD | 27.5 | 54.1 | 18.3
+| GIH | 19.8 | 49.5 | 30.7
+| LWK | 30.9 | 45.5 | 23.6
+| MEX | 15.5 | 46.6 | 37.9
+| MKK | 28.2 | 48.1 | 23.7
+| TSI | 4.9 | 41.2 | 53.9
+| HapMapRevision=28
+}}[[rs6684865]] has been reported in a large study to be associated with [[rheumatoid arthritis]].
+
+The risk allele (oriented to the dbSNP entry) is (G); the odds ratio associated with heterozygotes is 1.27 (CI 1.02-1.56), and for homozygotes, 1.54 (CI 1.25-1.90). {{PMID|17554300|OA=1
+}}
+
+{{PMID Auto
+|PMID=20187130
+|Title=Evidence of epistasis between TNFRSF14 and TNFRSF6B polymorphisms in patients with rheumatoid arthritis
+}}
+
+{{PMID Auto
+|PMID=20962851
+|Title=Members 6B and 14 of the TNF receptor superfamily in multiple sclerosis predisposition
+}}
+
+{{PMID Auto
+|PMID=18794857
+|Title=Rheumatoid arthritis susceptibility loci at chromosomes 10p15, 12q13 and 22q13.
+|OA=1
+}}
+
+{{PMID Auto
+|PMID=20017963
+|Title=Representation of genetic association via attributable familial relative risks in order to identify polymorphisms functionally relevant to rheumatoid arthritis.
+|OA=1
+}}
+
+{{PMID Auto
+|PMID=20439292
+|Title=Genetic variants in the prediction of rheumatoid arthritis.
+}}
+
+{{on chip | 23andMe v2}}
+{{on chip | 23andMe v3}}
+{{on chip | 23andMe v4}}
+{{on chip | Affy GenomeWide 6}}
+{{on chip | FTDNA2}}
+{{on chip | HumanOmni1Quad}}
+{{on chip | Illumina Human 1M}}
+
+rs3890745
+{{Rsnum
+|rsid=3890745
+|Gene=MMEL1
+|Chromosome=1
+|position=2622185
+|Orientation=minus
+|GMAF=0.4307
+|Assembly=GRCh38
+|GenomeBuild=38.1
+|dbSNPBuild=141
+|geno1=(A;A)
+|geno2=(A;G)
+|geno3=(G;G)
+|Gene_s=MMEL1
+}}{{ population diversity
+| geno1=(A;A)
+| geno2=(A;G)
+| geno3=(G;G)
+| CEU | 46.0 | 41.6 | 12.4
+| HCB | 19.0 | 58.4 | 22.6
+| JPT | 25.7 | 52.2 | 22.1
+| YRI | 17.7 | 47.6 | 34.7
+| ASW | 21.1 | 47.4 | 31.6
+| CHB | 19.0 | 58.4 | 22.6
+| CHD | 18.3 | 54.1 | 27.5
+| GIH | 31.7 | 52.5 | 15.8
+| LWK | 19.1 | 36.4 | 44.5
+| MEX | 37.9 | 46.6 | 15.5
+| MKK | 17.3 | 50.0 | 32.7
+| TSI | 53.9 | 41.2 | 4.9
+| HapMapRevision=28
+}}
+{{GWAS Summary
+|SNP=rs3890745
+|PubMedID=18794853
+|Condition=Rheumatoid arthritis
+|Gene=MMEL1-TNFRSF14
+|Risk Allele=T
+|pValue=1.00E-007
+|OR=1.12
+|95CI=
+|OA=1
+}}
+
+{{omim
+|desc=RHEUMATOID ARTHRITIS; RA
+|id=180300
+|rsnum=3890745
+}}
+
+{{PharmGKB
+|RSID=rs3890745
+|Name_s=
+|Gene_s=MMEL1
+|Feature=
+|Evidence=PubMed ID:18794853; Web Resource:http://www.genome.gov/gwastudies/
+|Annotation=GWAS Results: Common variants at CD40 and other loci confer risk of rheumatoid arthritis (Initial Sample Size: 3,393 cases, 12,460 controls; Replication Sample Size: 3,929 cases, 5,807 controls; Risk Allele: rs3890745-T). This variant is associated with Rheumatoid arthritis.
+|Drugs=
+|Drug Classes=
+|Diseases=Arthritis, Rheumatoid
+|Curation Level=Non-Curated
+|PharmGKB Accession ID=PA162356418
+}}
+
+{{PMID Auto GWAS
+|PMID=20453842
+|Trait=Rheumatoid arthritis
+|Title=Genome-wide association study meta-analysis identifies seven new rheumatoid arthritis risk lock
+|RiskAllele=T
+|Pval=0.000004
+|OR=1.12
+|ORtxt=[1.06-1.18]
+}}
+
+{{PMID Auto
+|PMID=21784728
+|Title=Association of variants in MMEL1 and CTLA4 with rheumatoid arthritis in the Han Chinese population
+}}
+
+{{PMID Auto
+|PMID=22365150
+|Title=Use of a multiethnic approach to identify rheumatoid- arthritis-susceptibility loci, 1p36 and 17q12
+|OA=1
+}}
+
+{{PMID Auto
+|PMID=20007504
+|Title=Comprehensive follow-up of the first genome-wide association study of multiple sclerosis identifies KIF21B and TMEM39A as susceptibility loci.
+|OA=1
+}}
+
+{{PMID Auto
+|PMID=20426808
+|Title=AntEpiSeeker: detecting epistatic interactions for case-control studies using a two-stage ant colony optimization algorithm.
+|OA=1
+}}
+
+{{PMID Auto
+|PMID=20639879
+|Title=Variants at IRF5-TNPO3, 17q12-21 and MMEL1 are associated with primary biliary cirrhosis.
+|OA=1
+}}
+
+{{PMID Auto
+|PMID=21383967
+|Title=Meta-analysis of genome-wide association studies in celiac disease and rheumatoid arthritis identifies fourteen non-HLA shared loci.
+|OA=1
+}}
+
+{{PMID Auto
+|PMID=21765104
+|Title=Evaluation of 19 autoimmune disease-associated loci with rheumatoid arthritis in a Colombian population: evidence for replication and gene-gene interaction.
+|OA=1
+}}
+
+{{GET Evidence
+|impact=pathogenic
+|qualified_impact=Insufficiently evaluated pathogenic
+|inheritance=unknown
+|quality_scores=Array
+|dbsnp_id=rs3890745
+|overall_frequency_n=61
+|overall_frequency_d=128
+|overall_frequency=0.476562
+|n_genomes=39
+|n_genomes_annotated=0
+|n_haplomes=49
+|n_articles=0
+|n_articles_annotated=0
+|in_gwas=Y
+|in_pharmgkb=Y
+|autoscore=2
+|webscore=N
+}}
+
+{{PMID Auto
+|PMID=22922229
+|Title=Seven newly identified loci for autoimmune thyroid disease.
+|OA=1
+}}
+
+{{PMID Auto GWAS
+  |PMID=24449572
+  |Trait=Rheumatoid arthritis
+  |Title=Novel rheumatoid arthritis susceptibility locus at 22q12 identified in an extended UK genome-wide association study.
+  |RiskAllele=
+  |Pval=1E-6
+  |OR=1.18
+  |ORtxt=[1.1-1.27]
+  }}
+{{on chip | 23andMe v1}}
+{{on chip | 23andMe v2}}
+{{on chip | 23andMe v3}}
+{{on chip | 23andMe v4}}
+{{on chip | Affy GenomeWide 6}}
+{{on chip | HumanOmni1Quad}}
+{{on chip | Illumina Human 1M}}
+
+rs4648356
+{{Rsnum
+|rsid=4648356
+|Chromosome=1
+|position=2792599
+|Orientation=plus
+|GMAF=0.4197
+|Assembly=GRCh38
+|GenomeBuild=38.1
+|dbSNPBuild=141
+|geno1=(A;A)
+|geno2=(A;C)
+|geno3=(C;C)
+}}{{ population diversity
+| geno1=(A;A)
+| geno2=(A;C)
+| geno3=(C;C)
+| CEU | 12.4 | 41.6 | 46.0
+| HCB | 23.4 | 60.6 | 16.1
+| JPT | 25.7 | 50.4 | 23.9
+| YRI | 25.9 | 51.7 | 22.4
+| ASW | 19.3 | 50.9 | 29.8
+| CHB | 23.4 | 60.6 | 16.1
+| CHD | 33.0 | 49.5 | 17.4
+| GIH | 16.8 | 46.5 | 36.6
+| LWK | 28.2 | 44.5 | 27.3
+| MEX | 15.5 | 46.6 | 37.9
+| MKK | 24.4 | 51.3 | 24.4
+| TSI | 4.9 | 41.2 | 53.9
+| HapMapRevision=28
+}}{{PMID Auto GWAS
+  |PMID=21833088
+  |Trait=Multiple sclerosis
+  |Title=Genetic risk and a primary role for cell-mediated immune mechanisms in multiple sclerosis.
+  |RiskAllele=C
+  |Pval=1E-14
+  |OR=1.14
+  |ORtxt=[1.12-1.16]
+  |OA=1
+}}
+
+{{on chip | 23andMe v1}}
+{{on chip | 23andMe v2}}
+{{on chip | 23andMe v3}}
+{{on chip | 23andMe v4}}
+{{on chip | Illumina Human 1M}}
+
+rs12409277
+{{Rsnum
+|rsid=12409277
+|Chromosome=1
+|Orientation=plus
+|geno1=(C;C)
+|geno2=(C;T)
+|geno3=(T;T)
+|position=3041036
+|Assembly=GRCh38
+|GenomeBuild=38.1
+|dbSNPBuild=141
+}}{{ population diversity
+| geno1=(C;C)
+| geno2=(C;T)
+| geno3=(T;T)
+| CEU | 5.3 | 31.0 | 63.7
+| HCB | 20.4 | 46.0 | 33.6
+| JPT | 11.5 | 47.8 | 40.7
+| YRI | 2.0 | 26.5 | 71.4
+| ASW | 5.3 | 33.3 | 61.4
+| CHB | 20.4 | 46.0 | 33.6
+| CHD | 21.1 | 48.6 | 30.3
+| GIH | 0.0 | 17.8 | 82.2
+| LWK | 3.6 | 27.3 | 69.1
+| MEX | 13.8 | 44.8 | 41.4
+| MKK | 1.9 | 42.9 | 55.1
+| TSI | 2.0 | 17.6 | 80.4
+| HapMapRevision=28
+}}{{PMID Auto
+|PMID=24863034
+|Title=Large-scale analysis reveals a functional single-nucleotide polymorphism in the 5'-flanking region of PRDM16 gene associated with lean body mass
+}}
+
+{{on chip | Affy GenomeWide 6}}
+{{on chip | FTDNA}}
+
+rs2651899
+{{Rsnum
+|rsid=2651899
+|Gene=PRDM16
+|Chromosome=1
+|position=3167148
+|Orientation=minus
+|GMAF=0.4995
+|Assembly=GRCh38
+|GenomeBuild=38.1
+|dbSNPBuild=141
+|geno1=(A;A)
+|geno2=(A;G)
+|geno3=(G;G)
+|Gene_s=PRDM16
+}}{{ population diversity
+| geno1=(A;A)
+| geno2=(A;G)
+| geno3=(G;G)
+| CEU | 36.3 | 44.2 | 19.5
+| HCB | 29.2 | 57.7 | 13.1
+| JPT | 37.2 | 46.0 | 16.8
+| YRI | 5.4 | 42.2 | 52.4
+| ASW | 7.0 | 33.3 | 59.6
+| CHB | 29.2 | 57.7 | 13.1
+| CHD | 30.3 | 50.5 | 19.3
+| GIH | 28.7 | 43.6 | 27.7
+| LWK | 10.9 | 44.5 | 44.5
+| MEX | 29.3 | 51.7 | 19.0
+| MKK | 18.6 | 48.1 | 33.3
+| TSI | 23.5 | 58.8 | 17.6
+| HapMapRevision=28
+}}[[rs2651899]] is a SNP on ch 1p36.32 in the [[PRDM16]] gene.
+
+A large GWAS study of over 5,000 patients with [[migraines]] and a meta-analysis concluded that this SNP was one of three influencing the condition, albeit with only slight risk increases on its own. The odds ratio for the slightly rarer [[rs2651899]](G) allele was 1.11 (CI: 1.07 - 1.15, p = 3.8 x 10e-9).{{doi|10.1038/ng.856}}
+
+A 2013 study published by the American Headache Society reports significant influence of rs1835740, LRP1 rs11172113 and PRDM16 rs2651899 polymorphisms on migraine susceptibility in the Northern Indian population.  {{PMID|24266335}}
+
+{{PMID Auto GWAS
+|PMID=21666692
+|Trait=None
+|Title=Genome-wide association study reveals three susceptibility loci for common migraine in the general population.
+|RiskAllele=C
+|Pval=4E-9
+|OR=1.1100
+|ORtxt=[1.07-1.15]
+|OA=1
+}}
+
+{{PMID Auto
+|PMID=22072275
+|Title=Genetics of migraine in the age of genome-wide association studies
+|OA=1
+}}
+
+{{PMID Auto
+|PMID=24021092
+|Title=PRDM16 rs2651899 Variant Is a Risk Factor for Chinese Common Migraine Patients
+}}
+
+{{PMID Auto
+|PMID=23294458
+|Title=Replication and meta-analysis of common variants identifies a genome-wide significant locus in migraine
+}}
+
+{{PMID Auto GWAS
+  |PMID=23793025
+  |Trait=Migraine
+  |Title=Genome-wide meta-analysis identifies new susceptibility loci for migraine.
+  |RiskAllele=C
+  |Pval=4E-14
+  |OR=1.09
+  |ORtxt=[1.07-1.11]
+  |OA=1
+}}
+
+{{PMID|24266335}} Genome-wide-associated variants in migraine susceptibility: a replication study from North India.
+
+{{PMID Auto
+|PMID=24674449
+|Title=A replication study of GWAS findings in migraine identifies association in a Swedish case-control sample
+|OA=1
+}}
+
+{{on chip | 23andMe v1}}
+{{on chip | 23andMe v2}}
+{{on chip | 23andMe v3}}
+{{on chip | 23andMe v4}}
+{{on chip | FTDNA2}}
+{{on chip | HumanOmni1Quad}}
+{{on chip | Illumina Human 1M}}
+
+rs6658356
+{{Rsnum
+|rsid=6658356
+|Gene=PRDM16
+|Chromosome=1
+|position=3363689
+|Orientation=plus
+|GMAF=0.1001
+|Assembly=GRCh38
+|GenomeBuild=38.1
+|dbSNPBuild=141
+|geno1=(A;A)
+|geno2=(A;G)
+|geno3=(G;G)
+|Gene_s=PRDM16
+}}{{ population diversity
+| geno1=(A;A)
+| geno2=(A;G)
+| geno3=(G;G)
+| CEU | 0.0 | 12.1 | 87.9
+| HCB | 0.0 | 15.0 | 85.0
+| JPT | 0.0 | 12.2 | 87.8
+| YRI | 5.1 | 45.8 | 49.2
+| ASW | 0.0 | 0.0 | 0.0
+| CHB | 0.0 | 15.0 | 85.0
+| CHD | 0.0 | 0.0 | 0.0
+| GIH | 0.0 | 0.0 | 0.0
+| LWK | 0.0 | 0.0 | 0.0
+| MEX | 0.0 | 0.0 | 0.0
+| MKK | 0.0 | 0.0 | 0.0
+| TSI | 0.0 | 0.0 | 0.0
+| HapMapRevision=28
+}}{{PMID Auto GWAS
+|PMID=20339536
+|Trait=Response to statin therapy
+|Title=Genome-wide association of lipid-lowering response to statins in combined study populations
+|RiskAllele=A
+|Pval=0.000002
+|OR=None
+|ORtxt=None
+|OA=1
+}}
+
+rs2273953
+{{Rsnum
+|rsid=2273953
+|Gene=TP73
+|Chromosome=1
+|position=3682336
+|Orientation=minus
+|GMAF=0.2006
+|Gene_s=TP73
+|Assembly=GRCh38
+|GenomeBuild=38.1
+|dbSNPBuild=141
+|geno1=(C;C)
+|geno2=(C;T)
+|geno3=(T;T)
+}}{{PMID Auto
+|PMID=23443851
+|Title=p73 G4C14-to-A4T14 polymorphisms are positively correlated with triple-negative breast cancer in southwestern China
+}}
+
+{{PMID Auto
+|PMID=19390575
+|Title=Lung cancer susceptibility model based on age, family history and genetic variants.
+|OA=1
+}}
+
+{{PMID Auto
+|PMID=19426493
+|Title=A case-control study on the combined effects of p53 and p73 polymorphisms on head and neck cancer risk in an Italian population.
+|OA=1
+}}
+
+{{PMID Auto
+|PMID=20452958
+|Title=Single-nucleotide polymorphisms in the p53 signaling pathway.
+|OA=1
+}}
+
+{{PMID Auto
+|PMID=20922573
+|Title=Functional polymorphisms associated with disease-free survival in resected carcinoma of the esophagus.
+|OA=1
+}}
+
+{{PMID Auto
+|PMID=21841506
+|Title=Combined effect of genetic polymorphisms in P53, P73, and MDM2 on non-small cell lung cancer survival.
+}}
+
+{{PMID Auto
+|PMID=25218545
+|Title=Interaction between TP63 and MDM2 genes and the risk of recurrent pregnancy loss
+}}
+{{on chip | 23andMe v3}}
+{{on chip | 23andMe v4}}
+
+rs1801173
+{{Rsnum
+|rsid=1801173
+|Gene=TP73
+|Chromosome=1
+|position=3682346
+|Orientation=plus
+|GMAF=0.1997
+|Gene_s=TP73
+|Assembly=GRCh38
+|GenomeBuild=38.1
+|dbSNPBuild=141
+|geno1=(C;C)
+|geno2=(C;T)
+|geno3=(T;T)
+}}{{PMID Auto
+|PMID=23443851
+|Title=p73 G4C14-to-A4T14 polymorphisms are positively correlated with triple-negative breast cancer in southwestern China
+}}{{PMID Auto
+|PMID=19426493
+|Title=A case-control study on the combined effects of p53 and p73 polymorphisms on head and neck cancer risk in an Italian population.
+|OA=1
+}}
+
+{{PMID Auto
+|PMID=19657586
+|Title=Association study between P53 and P73 gene polymorphisms and the sporadic late-onset form of Alzheimer's disease.
+}}
+
+{{PMID Auto
+|PMID=20452958
+|Title=Single-nucleotide polymorphisms in the p53 signaling pathway.
+|OA=1
+}}
+
+{{PMID Auto
+|PMID=21841506
+|Title=Combined effect of genetic polymorphisms in P53, P73, and MDM2 on non-small cell lung cancer survival.
+}}
+{{PMID Auto
+|PMID=25218545
+|Title=Interaction between TP63 and MDM2 genes and the risk of recurrent pregnancy loss
+}}
+
+rs3765731
+{{Rsnum
+|rsid=3765731
+|Gene=TP73
+|Chromosome=1
+|position=3695328
+|Orientation=plus
+|GMAF=0.2195
+|Assembly=GRCh38
+|GenomeBuild=38.1
+|dbSNPBuild=141
+|geno1=(A;A)
+|geno2=(A;G)
+|geno3=(G;G)
+|Gene_s=TP73
+}}{{ population diversity
+| geno1=(A;A)
+| geno2=(A;G)
+| geno3=(G;G)
+| CEU | 7.1 | 50.0 | 42.9
+| HCB | 0.0 | 22.6 | 77.4
+| JPT | 0.9 | 35.4 | 63.7
+| YRI | 4.1 | 28.1 | 67.8
+| ASW | 1.8 | 38.6 | 59.6
+| CHB | 0.0 | 22.6 | 77.4
+| CHD | 2.8 | 20.2 | 77.1
+| GIH | 10.9 | 46.5 | 42.6
+| LWK | 2.7 | 33.6 | 63.6
+| MEX | 3.4 | 20.7 | 75.9
+| MKK | 8.3 | 34.6 | 57.1
+| TSI | 3.9 | 50.0 | 46.1
+| HapMapRevision=28
+}}{{PMID Auto
+|PMID=20211107
+|Title=A Pooling-Based Genome-Wide Association Study Implicates the p73 Gene in Chronic Rhinosinusitis
+}}
+
+{{on chip | 23andMe v1}}
+{{on chip | 23andMe v2}}
+{{on chip | 23andMe v3}}
+{{on chip | 23andMe v4}}
+{{on chip | FTDNA2}}
+{{on chip | HumanOmni1Quad}}
+{{on chip | Illumina Human 1M}}
+
+rs10915437
+{{Rsnum
+|rsid=10915437
+|Chromosome=1
+|position=4122946
+|Orientation=plus
+|GMAF=0.2851
+|Assembly=GRCh38
+|GenomeBuild=38.1
+|dbSNPBuild=141
+|geno1=(A;A)
+|geno2=(A;G)
+|geno3=(G;G)
+}}{{ population diversity
+| geno1=(A;A)
+| geno2=(A;G)
+| geno3=(G;G)
+| CEU | 45.1 | 42.5 | 12.4
+| HCB | 42.3 | 43.8 | 13.9
+| JPT | 45.1 | 45.1 | 9.7
+| YRI | 81.0 | 19.0 | 0.0
+| ASW | 70.2 | 24.6 | 5.3
+| CHB | 42.3 | 43.8 | 13.9
+| CHD | 48.6 | 39.4 | 11.9
+| GIH | 40.0 | 51.0 | 9.0
+| LWK | 74.3 | 23.9 | 1.8
+| MEX | 41.4 | 34.5 | 24.1
+| MKK | 89.0 | 11.0 | 0.0
+| TSI | 47.1 | 42.2 | 10.8
+| HapMapRevision=28
+}}{{PMID Auto GWAS
+  |PMID=23793025
+  |Trait=Migraine - clinic-based
+  |Title=Genome-wide meta-analysis identifies new susceptibility loci for migraine.
+  |RiskAllele=
+  |Pval=3E-8
+  |OR=1.16
+  |ORtxt=[1.1-1.22]
+  |OA=1
+}}
+
+{{PMID Auto
+|PMID=25179292
+|Title=Concordance of genetic risk across migraine subgroups: Impact on current and future genetic association studies
+}}
+
+{{on chip | Affy GenomeWide 6}}
+{{on chip | FTDNA}}
+
+rs966321
+{{Rsnum
+|rsid=966321
+|Chromosome=1
+|position=4255144
+|Orientation=minus
+|GMAF=0.4022
+|Assembly=GRCh38
+|GenomeBuild=38.1
+|dbSNPBuild=141
+|geno1=(A;A)
+|geno2=(A;C)
+|geno3=(C;C)
+}}{{ population diversity
+| geno1=(A;A)
+| geno2=(A;C)
+| geno3=(C;C)
+| CEU | 22.3 | 58.9 | 18.8
+| HCB | 14.6 | 52.6 | 32.8
+| JPT | 16.1 | 45.5 | 38.4
+| YRI | 0.7 | 13.7 | 85.6
+| ASW | 5.3 | 28.1 | 66.7
+| CHB | 14.6 | 52.6 | 32.8
+| CHD | 10.3 | 38.3 | 51.4
+| GIH | 30.0 | 57.0 | 13.0
+| LWK | 2.8 | 30.6 | 66.7
+| MEX | 0.0 | 0.0 | 0.0
+| MKK | 0.6 | 24.0 | 75.3
+| TSI | 17.6 | 46.1 | 36.3
+| HapMapRevision=28
+}}{{GWAS Summary
+|SNP=rs966321
+|PubMedID=17903294
+|Condition=Factor VII
+|Gene=Intergenic
+|Risk Allele=
+|pValue=8.00E-006
+|OR=NA
+|95CI=
+|OA=1
+}}
+
+{{PharmGKB
+|RSID=rs966321
+|Name_s=
+|Gene_s=-
+|Feature=
+|Evidence=PubMed ID:17903294; Web Resource:http://www.genome.gov/gwastudies/
+|Annotation=GWAS results: Genome-wide association and linkage analyses of hemostatic factors and hematological phenotypes in the Framingham Heart Study (Initial Sample Size: 1,000 individuals (Framingham); Replication Sample Size: NR). This variant is associated with Factor VII.
+|Drugs=
+|Drug Classes=
+|Diseases=Hematologic Diseases
+|Curation Level=Non-Curated
+|PharmGKB Accession ID=PA162356457
+}}
+
+{{PMID Auto
+|PMID=19340012
+|Title=Genome-wide association study of tanning phenotype in a population of European ancestry.
+|OA=1
+}}
+
+{{GET Evidence
+|impact=pathogenic
+|qualified_impact=Insufficiently evaluated pathogenic
+|inheritance=unknown
+|quality_scores=Array
+|dbsnp_id=rs966321
+|overall_frequency_n=47
+|overall_frequency_d=124
+|overall_frequency=0.379032
+|n_genomes=29
+|n_genomes_annotated=0
+|n_haplomes=37
+|n_articles=0
+|n_articles_annotated=0
+|in_gwas=Y
+|in_pharmgkb=Y
+|autoscore=2
+|webscore=N
+}}
+
+{{on chip | 23andMe v1}}
+{{on chip | 23andMe v2}}
+{{on chip | 23andMe v3}}
+{{on chip | 23andMe v4}}
+{{on chip | HumanOmni1Quad}}
+{{on chip | Illumina Human 1M}}
+
+rs239339
+{{Rsnum
+|rsid=239339
+|Chromosome=1
+|position=4384479
+|Orientation=plus
+|GMAF=0.129
+|Assembly=GRCh38
+|GenomeBuild=38.1
+|dbSNPBuild=141
+|geno1=(G;G)
+|geno2=(G;T)
+|geno3=(T;T)
+}}{{ population diversity
+| geno1=(G;G)
+| geno2=(G;T)
+| geno3=(T;T)
+| CEU | 57.1 | 36.6 | 6.2
+| HCB | 88.3 | 10.9 | 0.7
+| JPT | 87.6 | 12.4 | 0.0
+| YRI | 80.8 | 18.5 | 0.7
+| ASW | 87.7 | 8.8 | 3.5
+| CHB | 88.3 | 10.9 | 0.7
+| CHD | 88.9 | 9.3 | 1.9
+| GIH | 56.4 | 37.6 | 5.9
+| LWK | 82.7 | 15.5 | 1.8
+| MEX | 84.5 | 15.5 | 0.0
+| MKK | 80.1 | 18.6 | 1.3
+| TSI | 62.7 | 29.4 | 7.8
+| HapMapRevision=28
+}}{{PMID Auto GWAS
+  |PMID=23251661
+  |Trait=Obesity-related traits
+  |Title=Novel genetic loci identified for the pathophysiology of childhood obesity in the Hispanic population.
+  |RiskAllele=A
+  |Pval=3E-6
+  |OR=.03
+  |ORtxt=[NR]  unit increase
+  |OA=1
+}}
+
+{{on chip | 23andMe v1}}
+{{on chip | 23andMe v2}}
+{{on chip | 23andMe v3}}
+{{on chip | 23andMe v4}}
+{{on chip | Affy GenomeWide 6}}
+{{on chip | HumanOmni1Quad}}
+{{on chip | Illumina Human 1M}}
+
+rs4654438
+{{Rsnum
+|rsid=4654438
+|Chromosome=1
+|Orientation=plus
+|geno1=(C;C)
+|geno2=(C;T)
+|geno3=(T;T)
+|position=4499841
+|Assembly=GRCh38
+|GenomeBuild=38.1
+|dbSNPBuild=142
+}}{{ population diversity
+| geno1=(C;C)
+| geno2=(C;T)
+| geno3=(T;T)
+| CEU | 26.5 | 46.9 | 26.5
+| HCB | 65.7 | 29.9 | 4.4
+| JPT | 63.7 | 31.9 | 4.4
+| YRI | 17.7 | 51.0 | 31.3
+| ASW | 21.4 | 48.2 | 30.4
+| CHB | 65.7 | 29.9 | 4.4
+| CHD | 73.4 | 22.0 | 4.6
+| GIH | 12.9 | 41.6 | 45.5
+| LWK | 12.8 | 42.2 | 45.0
+| MEX | 44.8 | 43.1 | 12.1
+| MKK | 18.6 | 45.5 | 35.9
+| TSI | 19.6 | 52.0 | 28.4
+| HapMapRevision=28
+}}{{PMID Auto GWAS
+  |PMID=24556642
+  |Trait=Smooth-surface caries
+  |Title=Genome-wide association study of primary dentition pit-and-fissure and smooth surface caries.
+  |RiskAllele=T
+  |Pval=2E-6
+  |OR=1.63
+  |ORtxt=[NR] unit decrease
+  }}
+
+{{on chip | Affy GenomeWide 6}}
+
