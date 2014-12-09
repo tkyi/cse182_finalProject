@@ -1,3 +1,4 @@
+
 import argparse
 from wikitools import wiki  # https://github.com/alexz-enwp/wikitools
 from wikitools import page
