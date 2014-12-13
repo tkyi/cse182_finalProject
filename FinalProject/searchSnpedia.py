@@ -1,6 +1,5 @@
 #opens up vcf file and uses rsIds to make calls to SNPedia
 
-import argparse
 from wikitools import wiki  # https://github.com/alexz-enwp/wikitools
 from wikitools import page
 
