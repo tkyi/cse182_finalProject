@@ -41,15 +41,8 @@ print snpnum
 print match
 print omimmatch
 
-#create matchlist of rs ids
-matchlist = 'matchlist.txt'
-with open(matchlist, 'w') as fout:
-	for id in matches:
-  		fout.write(id)
-  		fout.write("\n")
-
 #create matchlist of omim ids
-omim = 'omim.txt'
+omim = 'matchlist.txt'
 with open(omim, 'w') as omimout:
 	for k in omimmatch:
   		omimout.write(k)
